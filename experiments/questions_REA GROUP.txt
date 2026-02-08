@@ -1,0 +1,33 @@
+Here are 20 questions that can be used to assess a candidate interviewing for the Senior Engineering Manager - Machine Learning position at REA Group, focusing on job fit, cultural and team fit, growth mindset, going above and beyond, and relevant skills:
+
+### Job Fit
+- What experience do you have in leading machine learning projects specifically in the real estate sector?
+- Can you describe your approach to integrating generative AI into existing systems? What challenges have you faced?
+- How do you prioritize machine learning initiatives when there are competing business objectives?
+- Discuss a time when you had to pivot a machine learning project due to unforeseen challenges. What was your approach?
+
+### Cultural and Team Fit
+- How would you describe your leadership style, and how does it align with REA Group's culture?
+- Can you share an example of how you have fostered collaboration within a cross-functional team?
+- What strategies do you employ to build trust and rapport within your team?
+- How do you ensure that your team stays aligned with the company's mission and values?
+
+### Growth Mindset
+- Describe a situation where you sought feedback on your performance. How did you implement that feedback?
+- How do you keep yourself and your team updated on the latest trends and technologies in machine learning?
+- Can you share an example of a project where you took a risk that resulted in significant learning, even if it didn’t succeed?
+- In what ways do you encourage continuous learning and development within your team?
+
+### Going Above and Beyond
+- Tell me about a time when you went beyond your job description to achieve a team goal. What motivated you?
+- How do you encourage innovation and creativity within your team, especially in a fast-paced environment?
+- Can you give an example of a project where you had to advocate for additional resources or support? What was the outcome?
+- How do you measure the success of your team beyond just project completion?
+
+### Skills Associated with the Job Title
+- What is your experience with MLOps, and how have you implemented it in your previous roles?
+- Can you discuss your experience with data engineering and how it relates to machine learning model development?
+- How do you approach the deployment of machine learning models in a production environment?
+- What tools and technologies do you prefer for managing machine learning workflows, and why?
+
+These questions aim to provide a comprehensive evaluation of the candidate's qualifications, leadership capabilities, and alignment with REA Group's values and objectives.

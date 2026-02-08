@@ -1,0 +1,14 @@
+[project]
+name = "ai-interview-agents"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "crewai>=1.8.1",
+    "crewai-tools>=1.8.1",
+    "jupyter>=1.1.1",
+    "langchain-openai>=0.3.23",
+    "pydantic>=2.11.10",
+    "youtube-transcript-api>=1.2.3",
+]
